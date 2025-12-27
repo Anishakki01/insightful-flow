@@ -1,33 +1,61 @@
-# Insightful Flow 🚀
+# 🚀 Insightful Flow
 
-A modern Operations Audit Dashboard built to visualize workflows, identify automation opportunities, and analyze ROI using clean UI and interactive charts.
+**Insightful Flow** is a modern **Operations Audit Dashboard** designed to help teams visualize workflows, identify automation opportunities, and analyze operational ROI through clean UI and interactive data visualizations.
+
+Built with performance, scalability, and developer experience in mind.
 
 ---
 
-## 👨‍💻 Built By
+## ✨ Features
+
+- 📊 Interactive charts & analytics
+- ⚡ Fast & optimized Vite + React setup
+- 🎨 Modern UI with Tailwind CSS & Radix UI
+- 🧩 Reusable component architecture
+- 📱 Fully responsive design
+- 🛠 Developer-friendly project structure
+
+---
+
+## 🖼️ Preview
+
+> Run locally to view the dashboard  
+> (Live deployment can be added later)
+
+---
+
+## 🧑‍💻 Built By
 
 - **Anish Choudhary**  
-  Frontend Developer | React | Tailwind CSS  
-  GitHub: https://github.com/Anishakki01
+  Frontend Developer (React, Tailwind CSS)  
+  GitHub: https://github.com/Anishakki01  
 
 - **Keshav**  
-  Contributor & Co-Developer  
+  Co-Developer & Contributor  
   GitHub: https://github.com/keshavd9605
+
+> This project is collaboratively built and maintained by Anish & Keshav.
 
 ---
 
 ## ⚙️ Tech Stack
 
-- React.js (Vite)
-- Tailwind CSS
-- Radix UI
-- Recharts
-- Lucide Icons
+- **Frontend:** React.js (Vite)
+- **Styling:** Tailwind CSS, tailwindcss-animate
+- **UI Components:** Radix UI
+- **Charts:** Recharts
+- **Icons:** Lucide React
+- **Language:** TypeScript
 
 ---
 
-## 🛠 Setup & Run Locally
+## 📁 Project Structure
 
-```sh
-npm install
-npm run dev
+```txt
+src/
+ ├─ components/     # Reusable UI components
+ ├─ pages/          # Application pages
+ ├─ hooks/          # Custom hooks
+ ├─ lib/            # Utilities & helpers
+ ├─ styles/         # Global styles
+ └─ main.tsx        # App entry point
