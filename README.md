@@ -1,21 +1,33 @@
-# Insightful Flow – Operations Audit Dashboard
+# Insightful Flow 🚀
 
-A modern **Operations Audit Dashboard** built with **React, Vite, Tailwind CSS**, and **Radix UI** to visualize workflows, identify automation opportunities, and estimate ROI.
+A modern Operations Audit Dashboard built to visualize workflows, identify automation opportunities, and analyze ROI using clean UI and interactive charts.
 
-## 🚀 Features
-- Interactive dashboard for operational insights
-- Clean, responsive UI with Tailwind CSS
-- Modular React components
-- Scalable project structure
-- Fast development & build using Vite
-- Charts and analytics using Recharts
+---
 
-## 🛠 Tech Stack
-- **Frontend:** React 18, TypeScript
-- **Build Tool:** Vite
-- **Styling:** Tailwind CSS, tailwindcss-animate
-- **UI Components:** Radix UI
-- **Charts:** Recharts
-- **Icons:** Lucide React
+## 👨‍💻 Built By
 
-## 📂 Project Structure
+- **Anish Choudhary**  
+  Frontend Developer | React | Tailwind CSS  
+  GitHub: https://github.com/Anishakki01
+
+- **Keshav**  
+  Contributor & Co-Developer  
+  GitHub: https://github.com/keshavd9605
+
+---
+
+## ⚙️ Tech Stack
+
+- React.js (Vite)
+- Tailwind CSS
+- Radix UI
+- Recharts
+- Lucide Icons
+
+---
+
+## 🛠 Setup & Run Locally
+
+```sh
+npm install
+npm run dev
